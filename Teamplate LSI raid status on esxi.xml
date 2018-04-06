@@ -9,8 +9,8 @@
 	</groups>
 	<templates>
 		<template>
-			<template>Teamplate LSI raid status on exsi</template>
-			<name>Teamplate LSI raid status on exsi</name>
+			<template>Teamplate LSI raid status on esxi</template>
+			<name>Teamplate LSI raid status on esxi</name>
 			<description/>
 			<groups>
 				<group>
